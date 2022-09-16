@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Blockchain
-- 💬 Ask me about : Anything related to web and android development
+- 💬 Ask me about : Anything related to web and android,iOS development
 - 📫 How to reach me: Instagram : @umangg.rathod
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact:  -->
