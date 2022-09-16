@@ -1,4 +1,4 @@
-###### Namaste, I'm Umang Rathod 👋
+# Namaste, I'm Umang Rathod 👋
 
 
 <!-- - 🔭 I’m currently working on ... -->
