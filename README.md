@@ -19,14 +19,11 @@
 
 - 📫 How to reach me **rathodumang319@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://codepen.io/umang00775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="umang00775" height="30" width="40" margin="5"/></a>
-
 <a href="https://linkedin.com/in/umang002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang002" height="30" width="40" margin="5"/></a>
-
 <a href="https://codesandbox.com/umang_rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="umang_rathod" height="30" width="40" margin="5"/></a>
-
 <a href="https://instagram.com/umangg.rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umangg.rathod" height="30" width="40" margin="5"/></a>
 <a href="https://dribbble.com/umang319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="umang319" height="30" width="40" margin="5"/></a>
 <a href="https://auth.geeksforgeeks.org/user/rathodumang319/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rathodumang319/profile" height="30" width="40" margin="5"/></a>
