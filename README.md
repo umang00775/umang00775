@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umang Rathod</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang00775&label=Profile%20views&color=0e75b6&style=flat" alt="umang00775" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang00775" alt="umang00775" /></a> </p>
 
@@ -21,9 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/umang00775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="umang00775" height="30" width="40" /></a>
+<a href="https://codepen.io/umang00775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="umang00775" height="30" width="40" margin="0 5"/></a>
+
 <a href="https://linkedin.com/in/umang002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang002" height="30" width="40" /></a>
+
 <a href="https://codesandbox.com/umang_rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="umang_rathod" height="30" width="40" /></a>
+
 <a href="https://instagram.com/umangg.rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umangg.rathod" height="30" width="40" /></a>
 <a href="https://dribbble.com/umang319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="umang319" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rathodumang319/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rathodumang319/profile" height="30" width="40" /></a>
