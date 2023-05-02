@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **digital ocean.**
 
-- 👨‍💻 My projects are available at [http://umang-rathod-portfolio.herokuapp.com/](http://umang-rathod-portfolio.herokuapp.com/)
+<!-- - 👨‍💻 My projects are available at [http://umang-rathod-portfolio.herokuapp.com/](http://umang-rathod-portfolio.herokuapp.com/) -->
 
 - 💬 Ask me about **blockchain, android/iOS/web development.**
 
