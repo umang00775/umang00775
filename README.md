@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang00775" alt="umang00775" margin="10"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang00775" alt="umang00775" margin="100"/></a> </p>
 
 - 🔭 I’m currently working on **web3 projects.**
 
