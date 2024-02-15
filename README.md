@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Image Processing Application<br><br>🌱 I’m currently learning Blockchain<br><br>💬 Ask me about Android/iOS + Web development<br><br>📫 How to reach me umang00775@gmail.com
+🔭 I’m currently working on Image Processing Application<br><br>🌱 I’m currently learning Generative AI<br><br>💬 Ask me about Android/iOS + Web development<br><br>📫 How to reach me umang00775@gmail.com
 
 
 ## 🌐 Socials:
